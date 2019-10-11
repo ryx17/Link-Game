@@ -1,2 +1,2 @@
 运行需要Qt5.13.1，小组采用的平台为QtCreator4.10.0；
-如果运行出现没有图片的问题，需要将
+如果运行出现没有图片的问题，需要将build-LinkGame-Desktop_Qt_5_13_1_MinGW_32_bit-Debug中的images和music文件夹移动至本地Qt构建项目的路径下即可；
