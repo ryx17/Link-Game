@@ -498,6 +498,7 @@ void MainWindow::on_pushButtonOn_clicked()
         isBGMOn=0;
         ui->pushButtonOn->setText("ON");
         bgm->play();
+        bgm->setLoops(-1);
     }
     else if(!isBGMOn)
     {
