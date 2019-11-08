@@ -1,0 +1,11 @@
+release/game3d.o
+release/main.o
+release/mainwindow.o
+release/multi.o
+release/multiplayer.o
+release/multiroom.o
+release/moc_game3d.o
+release/moc_mainwindow.o
+release/moc_multi.o
+release/moc_multiplayer.o
+release/moc_multiroom.o

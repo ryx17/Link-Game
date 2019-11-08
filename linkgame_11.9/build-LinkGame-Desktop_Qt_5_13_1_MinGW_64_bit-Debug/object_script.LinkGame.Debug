@@ -1,0 +1,11 @@
+debug/game3d.o
+debug/main.o
+debug/mainwindow.o
+debug/multi.o
+debug/multiplayer.o
+debug/multiroom.o
+debug/moc_game3d.o
+debug/moc_mainwindow.o
+debug/moc_multi.o
+debug/moc_multiplayer.o
+debug/moc_multiroom.o
